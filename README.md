@@ -1,6 +1,6 @@
 # Graphy-Theory_Algorithms-Implementation
 Coding project to implement Travelling Salesman Project, Chinese Postman Problem, and The Knight's Tour
-## Group 5
+### Group 5
 Ardian Saptaguna Yudistira (5025241079)
 
 Name (NRP)
