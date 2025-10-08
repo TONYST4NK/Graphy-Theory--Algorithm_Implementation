@@ -3,7 +3,7 @@ Coding project to implement Travelling Salesman Project, Chinese Postman Problem
 ### Group 5
 Ardian Saptaguna Yudistira (5025241079)
 
-Name (NRP)
+Dzaky Hasbullah Wahyudi (5025211264)
 
 Name(NRP)
 
