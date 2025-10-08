@@ -110,4 +110,4 @@ It will be the coordinates the knight will go until it visit all squares in the 
 0 0
 ```
 ### Explanation
-The algorith used for this code is backtracking (DFS). Backtracking is an algorithmic technique for problem solving where a solution is found incrementally by doing different options and undoing them if leads to a dead end.
+The algorith used for this code is backtracking (DFS). Backtracking is an algorithmic technique for problem solving where a solution is found incrementally by doing different options and undoing them if leads to a dead end. The knight will start from the given position. It marks the current position as visited. At the current position, the knight tries all 8 possible knight moves. When the a move leads toa valid unvisited position, it will move there and repeat. If the knight finds a dead end, it will backtrack and try a different move. If all N x M squares have been visited, then the knight's tour is complete.
