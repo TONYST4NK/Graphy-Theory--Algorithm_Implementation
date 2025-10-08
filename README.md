@@ -1,4 +1,4 @@
-# Graphy-Theory--Algorithm_Implementation
+# Graphy-Theory_Algorithms-Implementation
 Coding project to implement Travelling Salesman Project, Chinese Postman Problem, and The Knight's Tour
 
 ## Knight's Tour
