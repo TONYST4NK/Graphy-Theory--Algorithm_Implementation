@@ -3,6 +3,9 @@ Coding project to implement Travelling Salesman Project, Chinese Postman Problem
 
 ## Knight's Tour
 The Knight's Tour problem is the mathematical problem to create a program that creates a sequence of moves of a knight on a chessboard that the knight visits every square exactly once.
+
+### Code
+C++
 ```
 #include <bits/stdc++.h>
 using namespace std;
