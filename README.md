@@ -157,7 +157,7 @@ bool solveKT(int x, int y, int moveCount) {
     return false; // No move works from here
 }
 ```
-solveKT function recursively tries all 8 knight moves. It uses backtracking to explore different paths. It will return true if there is a valid solution and it will return false if there are no valid moves. The isSafe booleans function is used to check if the move is valid or not.
+solveKT boolean function recursively tries all 8 knight moves. It uses backtracking to explore different paths. It will return true if there is a valid solution and it will return false if there are no valid moves. The isSafe boolean function is used to check if the move is valid or not.
 
 #### c. Main
 C++
