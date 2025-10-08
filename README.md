@@ -71,11 +71,14 @@ int main() {
 }
 ```
 ### Input
+first line defines the size of the chessboard
+second line defines the starting position of the knight (coordinate)
 ```
 5 5
 2 2
 ```
 ### Output
+It will be the coordinates the knight will go until it visit all squares in the chessboard
 ```
 2 2
 4 1
